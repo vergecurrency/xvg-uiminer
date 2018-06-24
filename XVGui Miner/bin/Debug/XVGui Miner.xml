@@ -1,0 +1,59 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+XVGui Miner
+</name>
+</assembly>
+<members>
+<member name="T:XVGui_Miner.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:XVGui_Miner.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:XVGui_Miner.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:XVGui_Miner.My.Resources.Resources.back">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XVGui_Miner.My.Resources.Resources.size_large2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XVGui_Miner.My.Resources.Resources.verge_logo_white">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:XVGui_Miner.My.Resources.Resources.white">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="T:XVGui_Miner.DrawHelpers">
+ <summary>
+ LogIn GDI+ Theme
+ Creator: Xertz (HF)
+ Version: 1.4
+ Control Count: 28
+ Date Created: 18/12/2013
+ Date Changed: 07/09/2014
+ UID: 1602992
+ For any bugs / errors, PM me.
+ </summary>
+ <remarks></remarks>
+</member>
+</members>
+</doc>

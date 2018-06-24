@@ -1,0 +1,84 @@
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\XVGui Miner\XVGui Miner\bin\Debug\XVGui Miner.exe.config
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\XVGui Miner\XVGui Miner\bin\Debug\XVGui Miner.exe
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\XVGui Miner\XVGui Miner\bin\Debug\XVGui Miner.pdb
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\XVGui Miner\XVGui Miner\bin\Debug\XVGui Miner.xml
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\XVGui Miner\XVGui Miner\obj\Debug\XVGui Miner.vbprojResolveAssemblyReference.cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\XVGui Miner\XVGui Miner\obj\Debug\XVGui_Miner.Resources.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\XVGui Miner\XVGui Miner\obj\Debug\XVGui Miner.vbproj.GenerateResource.Cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\XVGui Miner\XVGui Miner\obj\Debug\XVGui Miner.vbproj.CoreCompileInputs.cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\XVGui Miner\XVGui Miner\obj\Debug\XVGui Miner.exe
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\XVGui Miner\XVGui Miner\obj\Debug\XVGui Miner.xml
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\XVGui Miner\XVGui Miner\obj\Debug\XVGui Miner.pdb
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\XVGui Miner\XVGui Miner\obj\Debug\XVGui_Miner.Form1.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.1\XVGui Miner\bin\Debug\XVGui Miner.exe.config
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.1\XVGui Miner\bin\Debug\XVGui Miner.exe
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.1\XVGui Miner\bin\Debug\XVGui Miner.pdb
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.1\XVGui Miner\bin\Debug\XVGui Miner.xml
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.1\XVGui Miner\obj\Debug\XVGui Miner.vbprojResolveAssemblyReference.cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.1\XVGui Miner\obj\Debug\XVGui_Miner.Form1.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.1\XVGui Miner\obj\Debug\XVGui_Miner.Resources.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.1\XVGui Miner\obj\Debug\XVGui Miner.vbproj.GenerateResource.Cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.1\XVGui Miner\obj\Debug\XVGui Miner.vbproj.CoreCompileInputs.cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.1\XVGui Miner\obj\Debug\XVGui Miner.exe
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.1\XVGui Miner\obj\Debug\XVGui Miner.xml
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.1\XVGui Miner\obj\Debug\XVGui Miner.pdb
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.1\XVGui Miner\obj\Debug\XVGui_Miner.Credits.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.1\XVGui Miner\obj\Debug\XVGui_Miner.Donate.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.2\XVGui Miner\bin\Debug\XVGui Miner.exe.config
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.2\XVGui Miner\bin\Debug\XVGui Miner.exe
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.2\XVGui Miner\bin\Debug\XVGui Miner.pdb
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.2\XVGui Miner\bin\Debug\XVGui Miner.xml
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.2\XVGui Miner\obj\Debug\XVGui Miner.vbprojResolveAssemblyReference.cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.2\XVGui Miner\obj\Debug\XVGui_Miner.Credits.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.2\XVGui Miner\obj\Debug\XVGui_Miner.Donate.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.2\XVGui Miner\obj\Debug\XVGui_Miner.Form1.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.2\XVGui Miner\obj\Debug\XVGui_Miner.Resources.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.2\XVGui Miner\obj\Debug\XVGui Miner.vbproj.GenerateResource.Cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.2\XVGui Miner\obj\Debug\XVGui Miner.vbproj.CoreCompileInputs.cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.2\XVGui Miner\obj\Debug\XVGui Miner.exe
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.2\XVGui Miner\obj\Debug\XVGui Miner.xml
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.2\XVGui Miner\obj\Debug\XVGui Miner.pdb
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3\XVGui Miner\bin\Debug\XVGui Miner.exe.config
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3\XVGui Miner\bin\Debug\XVGui Miner.exe
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3\XVGui Miner\bin\Debug\XVGui Miner.pdb
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3\XVGui Miner\bin\Debug\XVGui Miner.xml
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3\XVGui Miner\obj\Debug\XVGui Miner.vbprojResolveAssemblyReference.cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3\XVGui Miner\obj\Debug\XVGui_Miner.Credits.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3\XVGui Miner\obj\Debug\XVGui_Miner.Donate.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3\XVGui Miner\obj\Debug\XVGui_Miner.Form1.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3\XVGui Miner\obj\Debug\XVGui_Miner.Resources.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3\XVGui Miner\obj\Debug\XVGui Miner.vbproj.GenerateResource.Cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3\XVGui Miner\obj\Debug\XVGui Miner.vbproj.CoreCompileInputs.cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3\XVGui Miner\obj\Debug\XVGui Miner.exe
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3\XVGui Miner\obj\Debug\XVGui Miner.xml
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3\XVGui Miner\obj\Debug\XVGui Miner.pdb
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Copy\XVGui Miner\obj\Debug\XVGui Miner.vbprojResolveAssemblyReference.cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Copy\XVGui Miner\obj\Debug\XVGui_Miner.Credits.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Copy\XVGui Miner\obj\Debug\XVGui_Miner.Donate.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Copy\XVGui Miner\obj\Debug\XVGui_Miner.Form1.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Copy\XVGui Miner\obj\Debug\XVGui_Miner.Resources.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Copy\XVGui Miner\obj\Debug\XVGui_Miner.Splashscreen.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Copy\XVGui Miner\obj\Debug\XVGui Miner.vbproj.GenerateResource.Cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Copy\XVGui Miner\obj\Debug\XVGui Miner.vbproj.CoreCompileInputs.cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Copy\XVGui Miner\obj\Debug\XVGui Miner.exe
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Copy\XVGui Miner\obj\Debug\XVGui Miner.xml
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Copy\XVGui Miner\obj\Debug\XVGui Miner.pdb
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Copy\XVGui Miner\bin\Debug\XVGui Miner.exe.config
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Copy\XVGui Miner\bin\Debug\XVGui Miner.exe
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Copy\XVGui Miner\bin\Debug\XVGui Miner.pdb
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Copy\XVGui Miner\bin\Debug\XVGui Miner.xml
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Splashscreen\XVGui Miner\bin\Debug\XVGui Miner.exe.config
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Splashscreen\XVGui Miner\bin\Debug\XVGui Miner.exe
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Splashscreen\XVGui Miner\bin\Debug\XVGui Miner.pdb
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Splashscreen\XVGui Miner\bin\Debug\XVGui Miner.xml
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Splashscreen\XVGui Miner\obj\Debug\XVGui Miner.vbprojResolveAssemblyReference.cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Splashscreen\XVGui Miner\obj\Debug\XVGui_Miner.Credits.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Splashscreen\XVGui Miner\obj\Debug\XVGui_Miner.Donate.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Splashscreen\XVGui Miner\obj\Debug\XVGui_Miner.Form1.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Splashscreen\XVGui Miner\obj\Debug\XVGui_Miner.Resources.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Splashscreen\XVGui Miner\obj\Debug\XVGui_Miner.Splashscreen.resources
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Splashscreen\XVGui Miner\obj\Debug\XVGui Miner.vbproj.GenerateResource.Cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Splashscreen\XVGui Miner\obj\Debug\XVGui Miner.vbproj.CoreCompileInputs.cache
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Splashscreen\XVGui Miner\obj\Debug\XVGui Miner.exe
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Splashscreen\XVGui Miner\obj\Debug\XVGui Miner.xml
+C:\Users\MINER\Documents\Visual Studio 2017\Projects\Verge Miner\Beta\XVGui Miner 1.0.3 - Splashscreen\XVGui Miner\obj\Debug\XVGui Miner.pdb
